@@ -1,4 +1,4 @@
-/* Load plugins */
+/* Required modules */
 var del = require('del');
 var browserSync = require('browser-sync');
 var gulp = require('gulp');
