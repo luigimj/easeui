@@ -1,2 +1,2 @@
-# app
-A customize template based on h5bp for web apps
+# easeui
+A template based on Ease UI Components

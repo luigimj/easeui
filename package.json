@@ -1,5 +1,5 @@
 {
-  "name": "app",
+  "name": "easeui",
   "version": "1.0.0",
   "description": "A customize template based on h5bp for web apps",
   "main": "gulpfile.js",
@@ -20,5 +20,18 @@
     "gulp-sass": "^3.1.0",
     "gulp-sourcemaps": "^2.6.1",
     "gulp-uglify": "^3.0.0"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luigimj/easeui.git"
+  },
+  "keywords": [
+    "ui",
+    "components",
+    "web"
+  ],
+  "bugs": {
+    "url": "https://github.com/luigimj/easeui/issues"
+  },
+  "homepage": "https://github.com/luigimj/easeui#readme"
 }
